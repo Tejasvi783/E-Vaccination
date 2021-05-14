@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Vaccination</string>
+    <string name="Why">
+        Parents know about the importance of car seats, baby gates, and other things that help keep their precious baby’s life safe.
+        But very little know that internal safety measures are just as important as these external safety measures.
+        The best internal safety measure that money can buy is vaccinations. Countless studies have shown that getting a vaccine
+        is the best way to help the baby’s body fight against harmful bacterias and viruses. Currently there are 16 vaccines recommended by the CDC,
+        from birth to 18 years of age. Keeping track of these vaccines can get difficult at times.
+        Which is why we made this app. Click the button below to get started!!
+    </string>
+    <string name="Help">
+        Having trouble using our app? Try visiting our website at
+        e-vaccination.com or try calling us at 555-459-7840.
+        Also let us know any comments you have regarding our app.
+    </string>
+</resources>
